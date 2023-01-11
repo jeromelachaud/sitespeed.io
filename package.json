@@ -58,7 +58,7 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
     "jsdoc": "^3.3.3",
-    "license-checker": "^16.0.0",
+    "license-checker": "^25.0.1",
     "mocha": "^5.0.4",
     "node-sass": "^4.7.2",
     "prettier": "^1.11.1",
@@ -69,7 +69,7 @@
   "dependencies": {
     "aws-sdk": "2.222.1",
     "bluebird": "3.5.1",
-    "browsertime": "3.2.1",
+    "browsertime": "16.17.0",
     "cli-color": "1.2.0",
     "concurrent-queue": "7.0.2",
     "fast-stats": "0.0.3",
@@ -101,8 +101,8 @@
     "tape": "4.9.0",
     "text-table": "0.2.0",
     "uuid": "3.2.1",
-    "webcoach": "2.0.6",
-    "webpagetest": "0.3.8",
+    "webcoach": "7.0.0",
+    "webpagetest": "0.6.0",
     "yargs": "6.6.0"
   }
 }
