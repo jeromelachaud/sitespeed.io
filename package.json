@@ -58,7 +58,7 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
     "jsdoc": "^3.3.3",
-    "license-checker": "^16.0.0",
+    "license-checker": "^25.0.1",
     "mocha": "^5.0.4",
     "node-sass": "^4.7.2",
     "prettier": "^1.11.1",
@@ -69,7 +69,7 @@
   "dependencies": {
     "aws-sdk": "2.222.1",
     "bluebird": "3.5.1",
-    "browsertime": "19.0.0",
+    "browsertime": "21.0.0",
     "cli-color": "1.2.0",
     "concurrent-queue": "7.0.2",
     "fast-stats": "0.0.3",
