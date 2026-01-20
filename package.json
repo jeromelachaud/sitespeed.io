@@ -59,7 +59,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "jsdoc": "^3.3.3",
     "license-checker": "^25.0.1",
-    "mocha": "^5.0.4",
+    "mocha": "^11.7.5",
     "node-sass": "^4.7.2",
     "prettier": "^1.11.1",
     "pug-lint": "^2.5.0",
